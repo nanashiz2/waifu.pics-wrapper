@@ -2,6 +2,7 @@ const fetch = require('node-fetch')
 const { WaifuErrors } = require('./waifuErrors')
 
 const baseURL = "https://api.waifu.pics";
+const manyURL = "https://api.waifu.pics/many"
 
 
 async function waifuSFW(category){
