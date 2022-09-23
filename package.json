@@ -1,0 +1,29 @@
+{
+  "name": "@nanashiz2/waifu-pics",
+  "version": "1.0.0",
+  "description": "A node.js wrapper for waifu.pics",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nanashiz2/waifu.pics-wrapper.git"
+  },
+  "keywords": [
+    "waifu-pics-api",
+    "waifu.pics",
+    "waifu-wrapper",
+    "waifu",
+    "waifu-api"
+  ],
+  "author": "NanashiZ2",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nanashiz2/waifu.pics-wrapper/issues"
+  },
+  "homepage": "https://github.com/nanashiz2/waifu.pics-wrapper#readme",
+  "dependencies": {
+    "node-fetch": "^2.6.7"
+  }
+}
