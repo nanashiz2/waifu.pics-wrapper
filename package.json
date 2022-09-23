@@ -1,6 +1,6 @@
 {
   "name": "@nanashiz2/waifu-pics",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A node.js wrapper for waifu.pics",
   "main": "index.js",
   "scripts": {
